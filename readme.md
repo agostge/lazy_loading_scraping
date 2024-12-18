@@ -7,7 +7,7 @@ This is a Python-based web scraping project that extracts product images and det
 ---
 
 ## Table of Contents
-1. [Tech Stack](#prerequisites)
+1. [Tech Stack](#tech-stack)
 2. [Usage](#usage)
 3. [Challenges] (#challenges)
 4. [Folder Structure](#folder-structure)
@@ -17,7 +17,7 @@ This is a Python-based web scraping project that extracts product images and det
 
 ---
 
-## Prerequisites
+## Tech Stack
 
 The following tools, libraries were used for this project:
 
