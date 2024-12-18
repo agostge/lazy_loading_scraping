@@ -1,6 +1,6 @@
 
 
-# Web Scraping Project - Cullen Jewellery Engagement Rings
+# Web Scraping Project - 
 
 This is a Python-based web scraping project that extracts product images and details  from a website, specifically for engagement rings. The scraper navigates through the website, handles lazy loading, which is used by the website, collects relevant data, and saves images to a structured directory on the local machine.
 
